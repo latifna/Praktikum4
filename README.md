@@ -20,5 +20,7 @@ run program
 
 ![run](gambar/runl.png)
 
-maka user di haruskan untuk memilih 'y' untuk memasukkan data kembali atau 't' untuk menghasilkan output
+maka user di haruskan memilih 'y' untuk kembali ke proses input data atau 't' untuk menghasilkan output
+
+![run](gambar/run.png)
 
