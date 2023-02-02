@@ -3,8 +3,10 @@
 
 ![coding](gambar/code.png)
 
-Pada tugas kali ini, program diminta untuk bisa memasukkan data sebanyak banyaknya, maka saya menggunakan syntax
 ![input](gambar/input.png)
 
-dan menggunakan perulangan 
+Pada tugas kali ini, program diminta untuk bisa memasukkan data sebanyak banyaknya, maka saya menggunakan syntax
+
 ![loop](gambar/loop.png)
+
+dan menggunakan perulangan 
