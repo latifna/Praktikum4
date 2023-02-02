@@ -22,6 +22,10 @@ run program
 
 maka user di haruskan memilih 'y' untuk kembali ke proses input data atau 't' untuk menghasilkan output
 
+untuk proses penghitungan nilai, menggunakan syntax
+
+![nilai](gambar/prosesnilai.png)
+
 ### Output 
 
 ![run](gambar/run.png)
