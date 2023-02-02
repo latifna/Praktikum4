@@ -28,4 +28,4 @@ maka user di haruskan memilih 'y' untuk kembali ke proses input data atau 't' un
 
 ### Flowchart program menghitung nilai
 
-![flowchart](gambar/flowchartnilai.png)
+![flowchart](gambar/flowchartnilai.jpg)
