@@ -22,5 +22,10 @@ run program
 
 maka user di haruskan memilih 'y' untuk kembali ke proses input data atau 't' untuk menghasilkan output
 
+### Output 
+
 ![run](gambar/run.png)
 
+### Flowchart program menghitung nilai
+
+![flowchart](gambar/flowchartnilai.png)
